@@ -1,6 +1,6 @@
 Forever Full Stack
 
-This is an e-commerce project for selling clothes, built with React.js, Node.js, and MongoDB.
+(This is an e-commerce project for selling clothes, built with React.js, Node.js, and MongoDB.)
 
 -Project Structure:
 
