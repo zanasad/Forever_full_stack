@@ -33,5 +33,7 @@ Payments: Stripe
 -Installation:
 
 1.Clone the repository:git clone https://github.com/zanasad/Forever_full_stack.git
+
 2.Navigate into each subfolder (frontend, backend, admin) and install dependencies:npm install
+
 3.Start the project.
